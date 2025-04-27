@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @smiggiddy
 - 👀 I’m interested in building projects!
-- 🌱 Tech: 
-  - Go
-  - Python 
-  - Docker K8s
-  - AWS/Linode/Oracle Cloud Infastructure
-  - HashiCorp Vagrant/Terraform/Vault
-- 💞️ I’m looking to collaborate on coding projects! 
+- 🌱 Tech I'm interested in: 
+  - [Go, Python, Javascript] 
+  - { containers: [ Kubernetes, Podman/Docker, ] }
+  - Cloud: AWS/Linode/Oracle Cloud Infastructure
+  - Opensource 
+- 💞️ I’m looking to collaborate! 
 - 📫 You can reach me [Twitter](https://www.twitter.com/smiggiddy) or [Linkedin](https://www.linkedin.com/in/mikesmith-dev)
 
 <!---
